@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Iamahair Administration</title>
+</head>
+<body bgcolor="#EAEAEA">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" border='1'>
+<tr>
+<td width="8%" align="center" valign="middle">
+	<a href="http://iamahair.com" target="_blank"><h4>iamahair.com</h4></a>
+</td>
+<td width="8%" align="center">
+<a href="iamahair_order__1.php" target="main"><img src="order.gif" alt="ORDER" border="0"></a>
+</td>
+<td width="8%" align="center">
+<a href="iamahair_order__3.php" target="main"><img src="order_1.gif" alt="SHIPPING INFO." border="0"></a>
+</td>
+<td width="8%" align="center">
+  <!--
+<a href="http://mycom/stock" target="_blank"><img src="order_2.gif" alt="STOCK INFO." border="0"></a>
+</td>
+-->
+<a href="siamahair_stock_01.php" target="main"><img src="order_2.gif" alt="STOCK INFO." border="0"></a>
+</td>
+<td width="8%" align="center">
+<button><a href="pos_inventory.php" target="main">POS</a></button>
+</td>
+<td width="8%" align="center">
+<a href="iamahair_order__5.php" target="main"><img src="order_3.gif" alt="CS NOTES" border="0"></a>
+</td>
+<td width="8%" align="center">
+<a href="upc_01.php" target="main"><img src="upc_1.gif" alt="UPC CODE" border="0"></a>
+</td>
+<td width="8%" align="center">
+<a href="search_phone.php" target="main"><img src="search_phone.gif" alt="UPC CODE" border="0"></a>
+</td>
+<td width="8%" align="center">
+<a href="./cs_board" target="main"><img src="board.gif" alt="CS BOARD" border="0"></a>
+</td>
+<td width="8%" align="center">
+<a href="iamahair_order_qry.php" target="main">Search</a>&nbsp;<a href="iamahair_top100.php" target="main">Top100</a>&nbsp;<a href="iamahair_invoice_qry.php" target="main">INV</a>&nbsp;<a href="iamahair_order__33.php" target="main">M</a>
+</td>
+<script>
+function go_pop() {
+  var no = document.ord.ordno.value;
+  
+ if (no < 10000000) {
+ window.open("http://iamahair.com/myadmin.php?dispatch=orders.details&order_id="+no);
+ } else {
+  window.open("http://ehairdepot.com/ehair.php?dispatch=orders.details&order_id="+no);
+ }
+ return false; 
+}
+</script>
+<td width="20%" align="right">
+<form name="ord" onSubmit="return go_pop()">
+<input type="text" size="10" name="ordno">
+<input type="submit" value="INV">
+</form>
+</td>
+<td width="8%" align="right">
+<a href="logout.php" target="_top"><img src="logout.gif" alt="LOGOUT" border="o"></a>
+</td>
+<td>
+</tr>
+</table>
+</body>
+</html> 

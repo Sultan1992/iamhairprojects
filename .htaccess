@@ -1,0 +1,877 @@
+<IfModule mod_expires.c>
+	<FilesMatch "\.(gif|jpg|jpeg|png|swf|css|js|html?|xml|txt|ico)$">
+		ExpiresActive On
+		ExpiresDefault "access plus 10 years"
+	</FilesMatch>
+</IfModule>
+
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+#######################################################
+
+
+
+
+
+RewriteCond %{REQUEST_URI} /thanksgiving-black-friday-deals-online.html
+RewriteRule ^.*$ http://iamahair.com/instant-unbelievable-sale.html [L,R=301]
+RewriteCond %{REQUEST_URI} /beauty-items-page-
+RewriteRule ^.*$ http://iamahair.com/beauty-items.html [L,R=301]
+
+RewriteCond %{REQUEST_URI} /body-wave.html
+RewriteRule ^.*$ http://iamahair.com/body-wavy-style-wigs-pattern.html [L,R=301]
+RewriteCond %{REQUEST_URI} /half-wigs.html
+RewriteRule ^.*$ http://iamahair.com/wigs/wig-half-wigs.html [L,R=301]
+
+# ErrorDocument 4-29-2015
+
+RewriteCond %{REQUEST_URI} /belson-pro-straightening-iron-2-1-4.html
+RewriteRule ^.*$ http://iamahair.com/beauty-items.html [L,R=301]
+
+
+# ErrorDocument 11-19-2012
+
+RewriteCond %{REQUEST_URI} /motown-tress-synthetic-full-wig-paloma-fr.html
+RewriteRule ^.*$ http://iamahair.com/motown-tress-synthetic-full-wig-paloma.html [L,R=301]
+RewriteCond %{REQUEST_URI} /remi-human.html
+RewriteRule ^.*$ http://iamahair.com/feature-hair-fibers-remi-human.html [L,R=301]
+RewriteCond %{REQUEST_URI} /wigs/wig-lace-wigs/medium-length-style-lace-wigs.html
+RewriteRule ^.*$ http://iamahair.com/wigs/wig-lace-wigs/over-sholder-style-lace-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /wigs/wig-lace-wigs/curl-style-lace-wigs.html
+RewriteRule ^.*$ http://iamahair.com/wigs/wig-lace-wigs/curly-style-lace-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /straight-style-extensions-pattern.html
+RewriteRule ^.*$ http://iamahair.com/straight-style-wigs-pattern.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-goddess-select-remi-human-hair-glam-weave.html
+RewriteRule ^.*$ http://iamahair.com/goddess-select-glam-10sinch-sensationnel-weaving-hairs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-goddess-remi-human-hair-natural-yaki-weave.html
+RewriteRule ^.*$ http://iamahair.com/goddess-remi-natural-yaki-14inch-sensationnel-weaving-hairs.html [L,R=301]
+
+
+
+
+# ErrorDocument 11-14-2012
+
+RewriteCond %{REQUEST_URI} /wet-and-wavy-weave-hair.html
+RewriteRule ^.*$ http://iamahair.com/wet-n-wavy-style-extensions-pattern.html [L,R=301]
+RewriteCond %{REQUEST_URI} /product-1
+RewriteRule ^.*$ http://iamahair.com/sensationnel-fire-and-water-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /beauty-items/needle-urland-thread.html
+RewriteRule ^.*$ http://iamahair.com/beauty-items/needle-thread.html [L,R=301]
+RewriteCond %{REQUEST_URI} /beauty-items/sundries.html
+RewriteRule ^.*$ http://iamahair.com/beauty-items.html [L,R=301]
+RewriteCond %{REQUEST_URI} /draw-strings-ponytails.html
+RewriteRule ^.*$ http://iamahair.com/hair-piece/ponytails-hair-piece.html [L,R=301]
+RewriteCond %{REQUEST_URI} /espirit.html
+RewriteRule ^.*$ http://iamahair.com/bobbi-boss-espirit-remi-weave-hair.html [L,R=301]
+RewriteCond %{REQUEST_URI} /firstremi.html
+RewriteRule ^.*$ http://iamahair.com/bobbi-boss-firstremi-remi-weave-hair.html [L,R=301]
+RewriteCond %{REQUEST_URI} /lace-front-wig-de.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-fire-and-water-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /wigs/wig-half-wigs/curl-style-half-wigs.html
+RewriteRule ^.*$ http://iamahair.com/wigs/wig-half-wigs/curly-halfwig-curly-style-half-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /hair-piece/ponytail-page-5.html
+RewriteRule ^.*$ http://iamahair.com/hair-piece/ponytails-hair-piece.html [L,R=301]
+
+
+
+# ErrorDocument 11-13-2012
+RewriteCond %{REQUEST_URI} /bohyme-platinum-remi-human-hair-weave-brazillian-wave.html
+RewriteRule ^.*$ http://iamahair.com/bohyme-platinum-remi-human-hair-weave-brazillian-wave-22.html [L,R=301]
+RewriteCond %{REQUEST_URI} /chade-fashions.html
+RewriteRule ^.*$ http://iamahair.com/chade-newbornfree.html [L,R=301]
+RewriteCond %{REQUEST_URI} /fire-urland-water.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-fire-and-water-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /foxy-silver-human-full-wig-willa.htmlmotown-tress-synthetic-lace-front-wig-lfes-femme
+RewriteRule ^.*$ http://iamahair.com/foxy-silver.html [L,R=301]
+RewriteCond %{REQUEST_URI} /its-a-wig-100-human-full-lace-wig-dally.html
+RewriteRule ^.*$ http://iamahair.com/its-a-wig-futura-synthetic-full-lace-wig-lace-full-dally.html [L,R=301]
+RewriteCond %{REQUEST_URI} /its-a-wig-en.html
+RewriteRule ^.*$ http://iamahair.com/its-a-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-instant-weave-synthetic-half-wig-7004-en.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-synthetic-instant-weave-half-wig-hz7004.html [L,R=301]
+RewriteCond %{REQUEST_URI} /its-a-wig-synthetic-lace-front-wig-braid-yolanda.html
+RewriteRule ^.*$ http://iamahair.com/its-a-wig-synthetic-braid-lace-front-wig-braid-yolanda.html [L,R=301]
+RewriteCond %{REQUEST_URI} /long.html
+RewriteRule ^.*$ http://iamahair.com/long-style-brand-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /motown-tress-synthetic-lace-front-wig-lfes-femme.html
+RewriteRule ^.*$ http://iamahair.com/motown-tress-lace-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-bare-and-natural-indian-remi-human-hair-yaki-str-weave.html
+RewriteRule ^.*$ http://iamahair.com/indian-bare-and-natural-yaki-str-14inch-sensationnel-weaving-hairs.html [L,R=301]
+
+
+
+# ErrorDocument 11-8-2012
+RewriteCond %{REQUEST_URI} /premium-too-yaki-14linch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-yaki-14l-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /motown-full-wig.html
+RewriteRule ^.*$ http://iamahair.com/motown-tress-full-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /hair-piece/ponytail-page-3.html
+RewriteRule ^.*$ http://iamahair.com/hair-piece/ponytails-hair-piece.html [L,R=301]
+RewriteCond %{REQUEST_URI} /100-human.html
+RewriteRule ^.*$ http://iamahair.com/feature-hair-fibers-human-hair.html [L,R=301]
+RewriteCond %{REQUEST_URI} /body-wavy.html
+RewriteRule ^.*$ http://iamahair.com/body-wavy-style-wigs-pattern.html [L,R=301]
+RewriteCond %{REQUEST_URI} /bohyme-en.html
+RewriteRule ^.*$ http://iamahair.com/bohyme-hair.html [L,R=301]
+RewriteCond %{REQUEST_URI} /braid-and-twist.html
+RewriteRule ^.*$ http://iamahair.com/braid-and-twist-style-wigs-pattern.html [L,R=301]
+RewriteCond %{REQUEST_URI} /braid-lace-wig.html
+RewriteRule ^.*$ http://iamahair.com/braid-and-twist-style-wigs-pattern.html [L,R=301]
+RewriteCond %{REQUEST_URI} /braid-twist-wavy.html
+RewriteRule ^.*$ http://iamahair.com/braid-and-twist-style-wigs-pattern.html [L,R=301]
+RewriteCond %{REQUEST_URI} /curly.html
+RewriteRule ^.*$ http://iamahair.com/curly-style-extensions-pattern.html [L,R=301]
+RewriteCond %{REQUEST_URI} /futura-synthetic.html
+RewriteRule ^.*$ http://iamahair.com/feature-hair-fibers-futura-synthetic.html [L,R=301]
+RewriteCond %{REQUEST_URI} /hair-piece/ponytail/short-medium-length-ponytails-page-2.html
+RewriteRule ^.*$ http://iamahair.com/hair-piece/ponytails-hair-piece.html [L,R=301]
+RewriteCond %{REQUEST_URI} /human-blend.html
+RewriteRule ^.*$ http://iamahair.com/feature-hair-fibers-human-blend.html [L,R=301]
+RewriteCond %{REQUEST_URI} /jerry-curl.html
+RewriteRule ^.*$ http://iamahair.com/jerry-curl-style-wigs-pattern.html [L,R=301]
+RewriteCond %{REQUEST_URI} /loose-curl-en.html
+RewriteRule ^.*$ http://iamahair.com/loose-curl-style-wigs-pattern.html [L,R=301]
+RewriteCond %{REQUEST_URI} /loose-curl.html
+RewriteRule ^.*$ http://iamahair.com/loose-curl-style-wigs-pattern.html [L,R=301]
+RewriteCond %{REQUEST_URI} /medium.html
+RewriteRule ^.*$ http://iamahair.com/over-shoulder-style-brand-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /short-medium.html
+RewriteRule ^.*$ http://iamahair.com/above-shoulder-style-brand-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /new-born-free-magic-lace-wig.html
+RewriteRule ^.*$ http://iamahair.com/new-born-free-magic-lace-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /remi-human-hair-wigs.html
+RewriteRule ^.*$ http://iamahair.com/wigs/wig-full-wigs/remi-wig-remi-human-full-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /vanessa.html
+RewriteRule ^.*$ http://iamahair.com/vanessa-hair.html [L,R=301]
+RewriteCond %{REQUEST_URI} /vanessa-en.html
+RewriteRule ^.*$ http://iamahair.com/vanessa-hair.html [L,R=301]
+RewriteCond %{REQUEST_URI} /outre-super-natural-human-hair-perfect-bob-weave-de.html
+RewriteRule ^.*$ http://iamahair.com/outre-super-natural-human-hair-perfect-bob-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /wavy.html
+RewriteRule ^.*$ http://iamahair.com/wavy-style-extensions-pattern.html [L,R=301]
+
+
+
+# ErrorDocument 11-6-2012
+RewriteCond %{REQUEST_URI} /full-wig
+RewriteRule ^.*$ http://iamahair.com/wigs/wig-full-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /full-wigs.html
+RewriteRule ^.*$ http://iamahair.com/wigs/wig-full-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-empress-synthetic-lace-front-wig-tiffany.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-synthetic-empress-lace-front-wig-tiffany.html [L,R=301]
+RewriteCond %{REQUEST_URI} /straight.html
+RewriteRule ^.*$ http://iamahair.com/straight-style-wigs-pattern.html [L,R=301]
+RewriteCond %{REQUEST_URI} /deep-wavy.html
+RewriteRule ^.*$ http://iamahair.com/deep-wavy-style-wigs-pattern.html [L,R=301]
+RewriteCond %{REQUEST_URI} /body-wavy-en.html
+RewriteRule ^.*$ http://iamahair.com/body-wavy-style-wigs-pattern.html [L,R=301]
+RewriteCond %{REQUEST_URI} /braid-lace-wig.html
+RewriteRule ^.*$ http://iamahair.com/braid-and-twist-style-wigs-pattern.html [L,R=301]
+RewriteCond %{REQUEST_URI} /bohyme.html
+RewriteRule ^.*$ http://iamahair.com/bohyme-hair.html [L,R=301]
+RewriteCond %{REQUEST_URI} /brainding-hairs.html
+RewriteRule ^.*$ http://iamahair.com/braid-and-twist-style-wigs-pattern.html [L,R=301]
+RewriteCond %{REQUEST_URI} /cutie-collection-nbf.html
+RewriteRule ^.*$ http://iamahair.com/new-born-free-cutie-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /empress-edge.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-empress-edge-lace-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /empress-lace-wig.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-empress-lace-front-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /empress-natural.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-empress-lace-front-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /espirit-en.html
+RewriteRule ^.*$ http://iamahair.com/bobbi-boss-espirit-remi-weave-hair.html [L,R=301]
+RewriteCond %{REQUEST_URI} /chade-remi-human-magic-lace-front-wig-titi-mlh14-de.html
+RewriteRule ^.*$ http://iamahair.com/chade-remi-human-magic-lace-front-wig-titi-mlh14.html [L,R=301]
+RewriteCond %{REQUEST_URI} /chade-futura-synthetic-magic-lace-front-wig-ml77-de.html
+RewriteRule ^.*$ http://iamahair.com/chade-futura-synthetic-magic-lace-front-wig-ml77.html [L,R=301]
+RewriteCond %{REQUEST_URI} /bobos-remi-leave-in-conditioner-spray-2.7oz-en.html
+RewriteRule ^.*$ http://iamahair.com/bobos-remi-leave-in-conditioner-spray-2.7oz.html [L,R=301]
+RewriteCond %{REQUEST_URI} /beauty-care/hair-tools.html
+RewriteRule ^.*$ http://iamahair.com/beauty-items.html [L,R=301]
+RewriteCond %{REQUEST_URI} /fire-and-water-hot-spice-10inch-sensationnel-wet-and-wavy-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-fire-and-water-hot-spice-10-indian-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /fire-and-water-hot-spice-12inch-sensationnel-wet-and-wavy-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-fire-and-water-hot-spice-12-indian-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /fire-and-water-hot-spice-14inch-sensationnel-wet-and-wavy-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-fire-and-water-hot-spice-14-indian-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /fire-and-water-sea-breeze-10inch-sensationnel-wet-and-wavy-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-fire-and-water-sea-breeze-10-indian-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /fire-and-water-sea-breeze-12inch-sensationnel-wet-and-wavy-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-fire-and-water-sea-breeze-12-indian-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /fire-and-water-sea-breeze-14inch-sensationnel-wet-and-wavy-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-fire-and-water-sea-breeze-14-indian-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /fire-and-water-sea-breeze-18inch-sensationnel-wet-and-wavy-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-fire-and-water-sea-breeze-18-indian-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /fire-water-en.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-fire-and-water-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /fire-water.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-fire-and-water-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /firstremi-en.html
+RewriteRule ^.*$ http://iamahair.com/bobbi-boss-firstremi-remi-weave-hair.html [L,R=301]
+RewriteCond %{REQUEST_URI} /fullcap-wigs.html
+RewriteRule ^.*$ http://iamahair.com/its-a-full-cap-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /full-lace-wig.html
+RewriteRule ^.*$ http://iamahair.com/full-lace-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /full-lace-wigs-en.html
+RewriteRule ^.*$ http://iamahair.com/full-lace-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /full-wig
+RewriteRule ^.*$ http://iamahair.com/wigs/wig-full-wigs.html [L,R=301]
+
+
+RewriteCond %{REQUEST_URI} /half-wig
+RewriteRule ^.*$ http://iamahair.com/wigs/wig-half-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /indiremi-en.html
+RewriteRule ^.*$ http://iamahair.com/bobbi-boss-indiremi-remi-weave-hair.html [L,R=301]
+RewriteCond %{REQUEST_URI} /its-a-braid-lace-wig.html
+RewriteRule ^.*$ http://iamahair.com/its-a-braid-twist-lace-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /its-a-full-cap.html
+RewriteRule ^.*$ http://iamahair.com/its-a-full-cap-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /its-a-wig-100-human-lace-front-wig-finger-roll-de.html
+RewriteRule ^.*$ http://iamahair.com/its-a-wig-100-human-full-wig-finger-roll.html [L,R=301]
+RewriteCond %{REQUEST_URI} /its-a-wig-futura-synthetic-lace-front-wig-californiawave.html
+RewriteRule ^.*$ http://iamahair.com/its-a-wig-futura-synthetic-lace-front-wig-california-wave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /its-a-wig-futura-synthetic-lace-front-wig-paradise-de.html
+RewriteRule ^.*$ http://iamahair.com/its-a-wig-futura-synthetic-lace-front-wig-paradise.html [L,R=301]
+RewriteCond %{REQUEST_URI} /its-a-wig-rainbow-pop.html
+RewriteRule ^.*$ http://iamahair.com/its-a-wig-rainbow-pop-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /its-a-wig-remi-human-lace-front-wig-european-st.html
+RewriteRule ^.*$ http://iamahair.com/its-a-wig-remi-human-full-wig-european-bob.html [L,R=301]
+RewriteCond %{REQUEST_URI} /its-a-wig-sassy-mama.html
+RewriteRule ^.*$ http://iamahair.com/its-a-wig-sassy-mama-gray-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /lace-wig/lace-front-wigs
+RewriteRule ^.*$ http://iamahair.com/wigs/wig-lace-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /loose-wave.html
+RewriteRule ^.*$ http://iamahair.com/loose-curl-style-wigs-pattern.html [L,R=301]
+RewriteCond %{REQUEST_URI} /magic-lace.html
+RewriteRule ^.*$ http://iamahair.com/new-born-free-magic-lace-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /medium-en.html
+RewriteRule ^.*$ http://iamahair.com/over-shoulder-style-brand-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /mixx-multi.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-mixx-multi.html [L,R=301]
+RewriteCond %{REQUEST_URI} /mixx-multi-four-free-spiral-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-mixx-multi-four-free-spiral-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /motown-tress-100-human-full-wig-h-6230-joyce-fr.html
+RewriteRule ^.*$ http://iamahair.com/motown-tress-100-human-full-wig-h-6230-joyce.html [L,R=301]
+RewriteCond %{REQUEST_URI} /motown-tress-synthetic-full-wig-trudy.html
+RewriteRule ^.*$ http://iamahair.com/motown-tress-synthetic-full-wig-trudy-1.html [L,R=301]
+RewriteCond %{REQUEST_URI} /motown-tress-synthetic-lace-front-wig-lfe-dream-de.html
+RewriteRule ^.*$ http://iamahair.com/motown-tress-synthetic-lace-front-wig-lfe-dream.html [L,R=301]
+RewriteCond %{REQUEST_URI} /newbornfree-cuite-20-off.html
+RewriteRule ^.*$ http://iamahair.com/new-born-free-cutie-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /newbornfree-cuite-wig-hot-deal.html
+RewriteRule ^.*$ http://iamahair.com/new-born-free-cutie-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /product-1632.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-appealing-12-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-appealing-12inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-appealing-12-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-appealing-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-appealing-14-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-deep-body-12inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-deep-body-12-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-deep-body-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-deep-body-14-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-deep-body-16inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-deep-body-16-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-desire-12inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-desire-12-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-desire-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-desire-14-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-pretty-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-pretty-14-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-pretty-16inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-pretty-16-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-pretty-18inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-pretty-18-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-shorty-glam-loose-9inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-shorty-glam-loose-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-shorty-italian-wave-9inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-shorty-italian-wave-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-yaki-12inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-yaki-12-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-yaki-14linch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-yaki-14-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-yaki-16inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-yaki-16-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-yaki-18inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-yaki-18-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-bump-100-human-full-wig-feather-charm.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-100-human-bump-full-wig-feather-charm.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-empress-natural-synthetic-lace-front-wig-jocelyn.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-synthetic-empress-natural-lace-front-wig-jocelyn.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-empress-natural-synthetic-lace-front-wig-keira.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-empress-lace-front-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-empress-natural-synthetic-lace-front-wig-liza.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-synthetic-empress-natural-lace-front-wig-liza.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-empress-natural-synthetic-lace-front-wig-megan.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-synthetic-empress-natural-lace-front-wig-megan.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-en.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-fire-and-water-indian-human-hair-beach-wave-weave.html
+RewriteRule ^.*$ http://iamahair.com/fire-and-water-beach-wave-18inch-sensationnel-wet-and-wavy-weaving-hairs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-fire-and-water-indian-human-hair-heat-wave-weave.html
+RewriteRule ^.*$ http://iamahair.com/fire-and-water-heat-wave-18inch-sensationnel-wet-and-wavy-weaving-hairs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-fire-and-water-indian-human-hair-summer-kiss-weave.html
+RewriteRule ^.*$ http://iamahair.com/fire-and-water-summer-kiss-14inch-sensationnel-wet-and-wavy-weaving-hairs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /short.html
+RewriteRule ^.*$ http://iamahair.com/short-style-brand-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /synthetic.html
+RewriteRule ^.*$ http://iamahair.com/feature-hair-fibers-synthetic.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-hair
+RewriteRule ^.*$ http://iamahair.com/weave-extensions.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-goddess-remi-human-hair-loose-body-weave.html
+RewriteRule ^.*$ http://iamahair.com/goddess-remi-loose-body-18inch-sensationnel-weaving-hairs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-goddess-select-remi-human-hair-luxe-weave.html
+RewriteRule ^.*$ http://iamahair.com/goddess-select-luxe-16inch-sensationnel-weaving-hairs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-instant-weave-synthetic-half-wig-7009-en.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-synthetic-instant-weave-half-wig-hz7009.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-instant-weave-synthetic-half-wig-7048-en.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-synthetic-instant-weave-half-wig-hz7048.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-instant-weave-synthetic-half-wig-7058-en.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-synthetic-instant-weave-half-wig-hz7058.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-instant-weave-synthetic-half-wig-7059-en.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-synthetic-instant-weave-half-wig-hz7059.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-premium-too-human-blend-hair-french-weave.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-french-18-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-premium-too-human-blend-hair-lovely-weave.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-lovely-16-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-premium-too-human-blend-hair-preety-weave.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-pretty-18-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-start-2-finish-human-hair-body-deep-weave.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-body-deep-18-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-start-2-finish-human-hair-j-body-dual-810-inches-weave.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-j-body-dual-10-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-start-2-finish-human-hair-loose-spiral-weave.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-loose-spiral-18-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-totally-instant-weave-synthetic-full-wig-a015-en.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-synthetic-totally-instant-weave-full-wig-a015.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-totally-instant-weave-synthetic-full-wig-a025-en.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-synthetic-totally-instant-weave-full-wig-a025.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-totally-instant-weave-synthetic-full-wig-a026-en.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-synthetic-totally-instant-weave-full-wig-a026.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-body-deep-12inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-body-deep-12-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-body-deep-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-body-deep-14-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-body-deep-16inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-body-deep-16-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-body-deep-18inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-body-deep-18-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-classy-curl-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-classy-curl-14-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-classy-curl-16inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-classy-curl-16-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-classy-curl-18inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-classy-curl-18-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-deep-spiral-12inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-deep-spiral-12-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-deep-spiral-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-deep-spiral-14-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-deep-spiral-16inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-deep-spiral-16-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-deep-spiral-18inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-deep-spiral-18-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-french-spiral-12inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-french-spiral-12-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-french-spiral-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-french-spiral-14-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-french-spiral-16inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-french-spiral-16-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-french-spiral-18inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-french-spiral-18-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-loose-spiral-12inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-loose-spiral-12-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-loose-spiral-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-loose-spiral-14-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-loose-spiral-16inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-loose-spiral-16-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-loose-spiral-18inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-loose-spiral-18-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-ripple-deep-12inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-ripple-deep-12-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-ripple-deep-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-ripple-deep-14-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-ripple-deep-16inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-ripple-deep-16-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-ripple-deep-18inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-ripple-deep-18-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-total-yaki-10inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-total-yaki-10-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-total-yaki-12inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-total-yaki-12-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-total-yaki-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-total-yaki-14-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-total-yaki-16inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-total-yaki-16-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-total-yaki-18inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-total-yaki-18-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /style360.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-style360-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /style360-free-deep-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-style360-free-deep-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /style360-loose-deep-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-style360-loose-deep-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /style360-romantic-body-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-style360-romantic-body-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /style360-spiral-deep-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-style360-spiral-deep-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /style360-splendor-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-style360-splendor-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /style360-super-wave-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-style360-super-wave-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /style360-tempting-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-style360-tempting-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /style360-tropical-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-style360-tropical-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /style360-twist-body-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-style360-twist-body-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /style360-vogue-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-style360-vogue-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /vanessa-synthetic-full-wig-chilli.html
+RewriteRule ^.*$ http://iamahair.com/vanessa-hair.html [L,R=301]
+RewriteCond %{REQUEST_URI} /vanessa-synthetic-full-wig-miko-fr.html
+RewriteRule ^.*$ http://iamahair.com/vanessa-synthetic-full-wig-miko.html [L,R=301]
+RewriteCond %{REQUEST_URI} /vanessa-synthetic-half-wig-la-subin-de.html
+RewriteRule ^.*$ http://iamahair.com/vanessa-synthetic-half-wig-la-subin.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-extensions/multi-package-weaves.html
+RewriteRule ^.*$ http://iamahair.com/weave-extensions.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-extensions/multi-package-weaves/human-hair-weaves.html
+RewriteRule ^.*$ http://iamahair.com/weave-extensions.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-extensions/multi-package-weaves/remi-human-weaves.html
+RewriteRule ^.*$ http://iamahair.com/weave-extensions.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-extensions/multi-package-weaves/synthetic-hair-weaves.html
+RewriteRule ^.*$ http://iamahair.com/weave-extensions.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-extensions/multi-package-weaves-page-2.html
+RewriteRule ^.*$ http://iamahair.com/weave-extensions.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-extensions/over-16-inch-long-style-weaves-en/remi-human-weaves-en-2.html
+RewriteRule ^.*$ http://iamahair.com/weave-extensions.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-extensions/under-10-inch-short-style-weaves-en.html
+RewriteRule ^.*$ http://iamahair.com/weave-extensions.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-extensions/under-10-inch-short-style-weaves-en/remi-human-weaves-en.html
+RewriteRule ^.*$ http://iamahair.com/weave-extensions.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weaving-needle-straigh.html
+RewriteRule ^.*$ http://iamahair.com/weaving-needle-straight-buy-1-get-1-free.html [L,R=301]
+
+
+# ErrorDocument 10-29-2012
+RewriteCond %{REQUEST_URI} /hair-care-products-page-
+RewriteRule ^.*$ http://iamahair.com/hair-care-products.html [L,R=301]
+RewriteCond %{REQUEST_URI} /beauty-care.html
+RewriteRule ^.*$ http://iamahair.com/hair-care-products.html [L,R=301]
+RewriteCond %{REQUEST_URI} /beauty-care/hair-accessories.html
+RewriteRule ^.*$ http://iamahair.com/hair-care-products.html [L,R=301]
+RewriteCond %{REQUEST_URI} /beauty-care/hair-care.html
+RewriteRule ^.*$ http://iamahair.com/hair-care-products.html [L,R=301]
+RewriteCond %{REQUEST_URI} /beauty-care/hair-colors.html
+RewriteRule ^.*$ http://iamahair.com/hair-care-products/hair-coloring.html [L,R=301]
+RewriteCond %{REQUEST_URI} /beauty-care/mens-grooming.html
+RewriteRule ^.*$ http://iamahair.com/hair-care-products/mens-hair-care.html [L,R=301]
+RewriteCond %{REQUEST_URI} /beauty-care/skin-and-body-product.html
+RewriteRule ^.*$ http://iamahair.com/skin-care.html [L,R=301]
+RewriteCond %{REQUEST_URI} /chade-indian-remi-yaki-weave-idol.html
+RewriteRule ^.*$ http://iamahair.com/new-born-free-idol-remi-human-weave-extensions-iry18-remi-yaki-18.html [L,R=301]
+RewriteCond %{REQUEST_URI} /empress.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-empress-lace-front-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /fire-and-water.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-fire-and-water-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /hair-care.html
+RewriteRule ^.*$ http://iamahair.com/hair-care-products.html [L,R=301]
+RewriteCond %{REQUEST_URI} /hair-piece/clip-in-bang-piece.html
+RewriteRule ^.*$ http://iamahair.com/hair-piece/clip-in-hair-extensions.html [L,R=301]
+RewriteCond %{REQUEST_URI} /hair-piece/clip-in-hair-extensionss.html
+RewriteRule ^.*$ http://iamahair.com/hair-piece/clip-in-hair-extensions.html [L,R=301]
+RewriteCond %{REQUEST_URI} /hair-piece/fusion-hair-extensionss.html
+RewriteRule ^.*$ http://iamahair.com/hair-piece/fusion-hair-extensions.html [L,R=301]
+RewriteCond %{REQUEST_URI} /mixx-multi-curl-los-angeles-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-mixx-multi-curl-long-los-angeles-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /mixx-multi-curl-new-york-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-mixx-multi-curl-long-new-york-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /mixx-multi-four-double-spiral-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-mixx-multi-four-double-spiral-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /mixx-multi-four-french-deep-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-mixx-multi-four-french-deep-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /mixx-multi-four-loose-deep-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-mixx-multi-four-loose-deep-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /mixx-multi-four-romantic-curl-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-mixx-multi-four-romantic-curl-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /motown-tress-simple-cap-wigs.html
+RewriteRule ^.*$ http://iamahair.com/motown-tress-full-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /ponytail-en.html
+RewriteRule ^.*$ http://iamahair.com/hair-piece/ponytails-hair-piece.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-cute-10inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-cute-10-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-cute-12inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-cute-12-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-cute-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-cute-14-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-cute-16inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-cute-16-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-deep-10inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-deep-10-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-deep-12inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-deep-12-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-deep-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-deep-14-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-deep-16inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-deep-16-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-enchanting-12inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-enchanting-12-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-enchanting-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-enchanting-14-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-enchanting-16inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-enchanting-16-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-enchanting-18inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-enchanting-18-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-french-10inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-french-10-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-french-12inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-french-12-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-french-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-french-14-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-french-16inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-french-16-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-french-18inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-french-18-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-jerry-curl-10inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-jerry-curl-10-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-jerry-curl-12inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-jerry-curl-12-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-jerry-curl-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-jerry-curl-14-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-loose-deep-12inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-loose-deep-12-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-loose-deep-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-loose-deep-14-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-loose-deep-16inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-loose-deep-16-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-loose-wave-10inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-loose-wave-10-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-loose-wave-12inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-loose-wave-12-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-loose-wave-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-loose-wave-14-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-lovely-10inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-lovely-10-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-lovely-12inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-lovely-12-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-lovely-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-lovely-14-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-lovely-16inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-lovely-16-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-shorty-bohemian-cute-9inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-shorty-bohemian-cute-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-shorty-deep-9inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-shorty-shorty-deep-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-shorty-spanish-wave-9inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-shorty-spanish-wave-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-silky-pro-8inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-silky-pro-8-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-silky-pro-10inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-silky-pro-10-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-silky-pro-12inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-silky-pro-12-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-silky-pro-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-silky-pro-14-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-silky-pro-18inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-silky-pro-18-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-spanish-wave-9inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-shorty-spanish-wave-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-sweet-12inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-sweet-12-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-sweet-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-sweet-14-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-sweet-16inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-sweet-16-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-sweet-18inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-sweet-18-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-yaki-8hinch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-yaki-8h-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-yaki-10inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-yaki-10-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-yaki-12linch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-yaki-12-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-yaki-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-yaki-14l-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-yaki-16linch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-yaki-16-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-yaki-18linch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-yaki-18-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-yaki-pro-8inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-yaki-pro-8-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-yaki-pro-10inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-yaki-pro-10-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-yaki-pro-12inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-yaki-pro-12-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-yaki-pro-14inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-yaki-pro-14-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-yaki-pro-16inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-yaki-pro-16-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /premium-too-yaki-pro-18inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-yaki-pro-18-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /remi-hair.html
+RewriteRule ^.*$ http://iamahair.com/feature-hair-fibers-remi-human.html [L,R=301]
+RewriteCond %{REQUEST_URI} /remi-hair/remi-wigs.html
+RewriteRule ^.*$ http://iamahair.com/wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /remi-human-hair.html
+RewriteRule ^.*$ http://iamahair.com/feature-hair-fibers-remi-human.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-empress-natural-futura-synthetic-lace-front-wig-elaine.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-futura-synthetic-empress-natural-lace-front-wig-elaine.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-empress-natural-synthetic-lace-front-wig-bella.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-synthetic-empress-natural-lace-front-wig-bella.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-empress-synthetic-lace-front-wig-christine.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-synthetic-empress-lace-front-wig-christine.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-fire-and-water-indian-human-hair-beach-wave-weave.html
+RewriteRule ^.*$ http://iamahair.com/fire-and-water-beach-wave-18inch-sensationnel-wet-and-wavy-weaving-hairs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-fire-and-water-indian-human-hair-heat-wave-weave.html
+RewriteRule ^.*$ http://iamahair.com/fire-and-water-heat-wave-18inch-sensationnel-wet-and-wavy-weaving-hairs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-goddess-remi-human-hair-bump-yaki-weave-en.html
+RewriteRule ^.*$ http://iamahair.com/goddess-bump-remi-yaki-8inch-sensationnel-weaving-hairs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-instant-weave-futura-synthetic-half-wig-7066-en.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-futura-synthetic-instant-weave-half-wig-hz7066.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-instant-weave-synthetic-half-wig-7021-en.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-synthetic-instant-weave-half-wig-hz7021.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-instant-weave-synthetic-half-wig-7047-en.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-synthetic-instant-weave-half-wig-hz7047.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-instant-weave-synthetic-half-wig-7052-en.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-synthetic-instant-weave-half-wig-hz7052.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-kanubia-synthetic-hair-body-deep-18-weave-en.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-kanubia-synthetic-hair-body-deep-18-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-kanubia-synthetic-hair-j-curl-6-8-10-weave-clone.html
+RewriteRule ^.*$ http://iamahair.com/kanubia-j-curl-wvg-6-8-10-multi-length-sensationnel-weaving-hairs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-premium-too-human-blend-hair-deep-weave.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-loose-wave-14-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-premium-too-human-blend-hair-sweet-weave.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-premium-too-sweet-18-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-start-2-finish-human-hair-classy-curl-weave.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-classy-curl-18-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-start-2-finish-human-hair-french-spiral-weave.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-french-spiral-18-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-start-2-finish-human-hair-j-body-dual-1012-inches-weave.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-j-body-dual-10-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-start-2-finish-human-hair-ripple-deep-weave.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-ripple-deep-18-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /sensationnel-totally-instant-weave-synthetic-full-wig-a047-en.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-futura-synthetic-totally-instant-weave-full-wig-a047.html [L,R=301]
+RewriteCond %{REQUEST_URI} /start-2-finish-total-yaki-16inch-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-start-2-finish-total-yaki-16-human-hair-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /style360-roll-body-sensationnel-weaving-hairs.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-style360-roll-body-human-blend-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /vanessa-synthetic-full-wig-denisha.html
+RewriteRule ^.*$ http://iamahair.com/vanessa-100-human-hair-full-wig-hh-denisha.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-extensions/medium-length-weaves/human-hair-weaves-en.html
+RewriteRule ^.*$ http://iamahair.com/weave-extensions/medium-length-weaves/human-hair-weaves-medium-length.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-extensions/medium-length-weaves/indian-hair-weaves-en-2.html
+RewriteRule ^.*$ http://iamahair.com/weave-extensions/medium-length-weaves/indian-hair-weaves-medium-length.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-extensions/medium-length-weaves/remi-human-weaves-en.html
+RewriteRule ^.*$ http://iamahair.com/weave-extensions/medium-length-weaves/remi-human-weaves-medium-length.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-extensions/medium-length-weaves/synthetic-hair-weaves-en.html
+RewriteRule ^.*$ http://iamahair.com/weave-extensions/medium-length-weaves/synthetic-hair-weaves-medium-length.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-extensions/over-16-inch-long-style-weaves/indian-hair-weaves.html
+RewriteRule ^.*$ http://iamahair.com/weave-extensions/over-16-inch-long-style-weaves/indian-hair-weaves-long-style.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-extensions/over-16-inch-long-style-weaves/remi-human-weaves-en-2.html
+RewriteRule ^.*$ http://iamahair.com/weave-extensions/over-16-inch-long-style-weaves/remi-human-weaves-long-style.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-extensions/over-16-inch-long-style-weaves/synthetic-hair-weaves.html
+RewriteRule ^.*$ http://iamahair.com/weave-extensions/over-16-inch-long-style-weaves/synthetic-hair-weaves-long-style.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-extensions/over-16-inch-long-style-weaves-en.html
+RewriteRule ^.*$ http://iamahair.com/weave-extensions/over-16-inch-long-style-weaves.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-extensions/under-10-inch-short-style-weaves/human-hair-weaves.html
+RewriteRule ^.*$ http://iamahair.com/weave-extensions/under-10-inch-short-style-weaves/human-hair-weaves-short-style.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-extensions/under-10-inch-short-style-weaves/indian-hair-weaves-en.html
+RewriteRule ^.*$ http://iamahair.com/weave-extensions/under-10-inch-short-style-weaves/indian-human-hair-weaves-short-style.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-extensions/under-10-inch-short-style-weaves/remi-human-weaves.html
+RewriteRule ^.*$ http://iamahair.com/weave-extensions/under-10-inch-short-style-weaves/remi-human-weaves-short-style.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-extensions/under-10-inch-short-style-weaves-en/weaves.html
+RewriteRule ^.*$ http://iamahair.com/weave-extensions/under-10-inch-short-style-weaves.html [L,R=301]
+RewriteCond %{REQUEST_URI} /full-wigs.html
+RewriteRule ^.*$ http://iamahair.com/full-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /half-wig/human-harf-wigs.html
+RewriteRule ^.*$ http://iamahair.com/wigs/wig-half-wigs/human-halfwig-human-hair-half-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /half-wig/long-length-style-half-wigs.html
+RewriteRule ^.*$ http://iamahair.com/wigs/wig-half-wigs/long-halfwig-long-style-half-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /half-wig/medium-length-half-wigs.html
+RewriteRule ^.*$ http://iamahair.com/wigs/wig-half-wigs/over-sholder-halfwig-medium-length-half-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /half-wig/synthetic-half-wigs.html
+RewriteRule ^.*$ http://iamahair.com/wigs/wig-half-wigs/synthetic-halfwig-synthetic-hair-half-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /its-a-wig-futura-synthetic-lace-front-wig-braid-bohemian.html
+RewriteRule ^.*$ http://iamahair.com/its-a-wig-futura-synthetic-braid-lace-front-wig-braid-bohemian.html [L,R=301]
+RewriteCond %{REQUEST_URI} /its-a-wig-futura-synthetic-lace-front-wig-braid-merilyn.html
+RewriteRule ^.*$ http://iamahair.com/its-a-wig-futura-synthetic-braid-lace-front-wig-braid-merilyn.html [L,R=301]
+RewriteCond %{REQUEST_URI} /its-a-wig-futura-synthetic-lace-front-wig-braid-rosemary.html
+RewriteRule ^.*$ http://iamahair.com/its-a-wig-futura-synthetic-braid-lace-front-wig-braid-rosemary.html [L,R=301]
+RewriteCond %{REQUEST_URI} /lace-wig/lace-front-wigs
+RewriteRule ^.*$ http://iamahair.com/wigs/wig-lace-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /lace-wig/lace-front-wigs/synthetic-lace-front-wigs
+RewriteRule ^.*$ http://iamahair.com/wigs/wig-lace-wigs/synthetic-hair-lace-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-hair
+RewriteRule ^.*$ http://iamahair.com/weave-extensions.html [L,R=301]
+
+RewriteCond %{REQUEST_URI} /shop-by-events/clearance-sale-en.html
+RewriteRule ^.*$ http://iamahair.com/shop-by-events/clearance-sales.html [L,R=301]
+RewriteCond %{REQUEST_URI} /category-29/category-32.html
+RewriteRule ^.*$ http://iamahair.com/shop-by-events/clearance-sales.html [L,R=301]
+
+RewriteCond %{REQUEST_URI} /limited-offer-sale-promotions.html
+RewriteRule ^.*$ http://iamahair.com/shop-by-events/limited-offer-special-sale-promotions.html [L,R=301]
+RewriteCond %{REQUEST_URI} /shop-by-events/limited-offer-sale-promotions.html
+RewriteRule ^.*$ http://iamahair.com/shop-by-events/limited-offer-special-sale-promotions.html [L,R=301]
+RewriteCond %{REQUEST_URI} /shop-by-events/limited-offer-sale-en.html 
+RewriteRule ^.*$ http://iamahair.com/shop-by-events/limited-offer-sale-promotions.html [L,R=301]
+RewriteCond %{REQUEST_URI} /shop-by-events/popular-items-en.html
+RewriteRule ^.*$ http://iamahair.com/best-sale-items.html [L,R=301]
+RewriteCond %{REQUEST_URI} /ashop-by-events/new-items-en.html
+RewriteRule ^.*$ http://iamahair.com/shop-by-events/new-items.html [L,R=301]
+RewriteCond %{REQUEST_URI} /shop-by-events/thanksgiving-special-offer.html 
+RewriteRule ^.*$ http://iamahair.com/shop-by-events/iamahair-special-offer.html [L,R=301]
+
+RewriteCond %{REQUEST_URI} /category-
+RewriteRule ^.*$ http://iamahair.com/special-offers/new-arrival-items.html [L,R=301]
+
+
+RewriteCond %{REQUEST_URI} /de- 
+RewriteRule ^.*$ http://iamahair.com [L,R=301]
+RewriteCond %{REQUEST_URI} /fr- 
+RewriteRule ^.*$ http://iamahair.com [L,R=301]
+RewriteCond %{REQUEST_URI} /fr.html
+RewriteRule ^.*$ http://iamahair.com [L,R=301]
+RewriteCond %{REQUEST_URI} /es- 
+RewriteRule ^.*$ http://iamahair.com [L,R=301]
+RewriteCond %{REQUEST_URI} /es.html
+RewriteRule ^.*$ http://iamahair.com [L,R=301]
+
+RewriteCond %{REQUEST_URI} /hair-care-products/hair-coloring/instant-urland-semi-permanent-color.html
+RewriteRule ^.*$ http://iamahair.com/hair-care-products/hair-coloring/instant-semi-permanent-color.html [L,R=301]
+RewriteCond %{REQUEST_URI} /goddess.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-goddess-remi-weave-hair.html [L,R=301]
+RewriteCond %{REQUEST_URI} /goddess-select.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-goddess-remi-weave-hair.html [L,R=301]
+RewriteCond %{REQUEST_URI} /bohyme-extension.html
+RewriteRule ^.*$ http://iamahair.com/bohyme-remi-tip-extension-fusion.html [L,R=301]
+RewriteCond %{REQUEST_URI} /bohyme-platinum.html
+RewriteRule ^.*$ http://iamahair.com/bohyme-platinum-remi-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /bump.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-bump-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /chade-synthetic-cutie-collection-full-wig-ct15-de.html
+RewriteRule ^.*$ http://iamahair.com/chade-synthetic-cutie-collection-full-wig-ct15.html [L,R=301]
+RewriteCond %{REQUEST_URI} /clearance-sale.html
+RewriteRule ^.*$ http://iamahair.com/special-offers/clearance-sales.html [L,R=301]
+RewriteCond %{REQUEST_URI} /clip-in-extentions.html
+RewriteRule ^.*$ http://iamahair.com/clip-in-extension.html [L,R=301]
+RewriteCond %{REQUEST_URI} /deeep-lace-wig.html
+RewriteRule ^.*$ http://iamahair.com/vivicafox-lace-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /foxy-silver.html
+RewriteRule ^.*$ http://iamahair.com/foxy-silver-hair-collection.html [L,R=301]
+RewriteCond %{REQUEST_URI} /hair-piece.html
+RewriteRule ^.*$ http://iamahair.com/hair-piece-extension.html [L,R=301]
+RewriteCond %{REQUEST_URI} /hair-piece/clip-in-hair-extensions.html
+RewriteRule ^.*$ http://iamahair.com/hair-piece-extension/hair-piece-clip-in-hair-extensions.html [L,R=301]
+RewriteCond %{REQUEST_URI} /hair-piece/fusion-hair-extensions.html
+RewriteRule ^.*$ http://iamahair.com/hair-piece-extension/hair-piece-fusion-hair-extensions.html [L,R=301]
+RewriteCond %{REQUEST_URI} /hair-piece-extension/hair-piece-fusion-hair-extensions-page
+RewriteRule ^.*$ http://iamahair.com/hair-piece-extension/hair-piece-fusion-hair-extensions.html [L,R=301]
+RewriteCond %{REQUEST_URI} /hair-piece/hair-dome.html
+RewriteRule ^.*$ http://iamahair.com/hair-piece-extension/hair-piece-hair-burns-apple-dome.html [L,R=301]
+RewriteCond %{REQUEST_URI} /hair-piece/ponytail.html
+RewriteRule ^.*$ http://iamahair.com/hair-piece-extension/hair-piece-ponytails.html [L,R=301]
+
+RewriteCond %{REQUEST_URI} /hair-piece/ponytail/medium-length-ponytails.html
+RewriteRule ^.*$ http://iamahair.com/hair-piece-extension/hair-piece-ponytails.html [L,R=301]
+RewriteCond %{REQUEST_URI} /hair-piece/ponytail/long-length-style-ponytails.html
+RewriteRule ^.*$ http://iamahair.com/hair-piece-extension/hair-piece-ponytails.html [L,R=301]
+RewriteCond %{REQUEST_URI} /hair-piece/ponytail/short-medium-length-ponytails.html
+RewriteRule ^.*$ http://iamahair.com/hair-piece-extension/hair-piece-ponytails.html [L,R=301]
+RewriteCond %{REQUEST_URI} /hair-piece/ponytail/short-length-style-ponytails.html
+RewriteRule ^.*$ http://iamahair.com/hair-piece-extension/hair-piece-ponytails.html [L,R=301]
+RewriteCond %{REQUEST_URI} /hair-piece/ponytails-hair-piece.html
+RewriteRule ^.*$ http://iamahair.com/hair-piece-extension/hair-piece-ponytails.html [L,R=301]
+RewriteCond %{REQUEST_URI} /hair-piece/ponytails-hair-piece-page-
+RewriteRule ^.*$ http://iamahair.com/hair-piece-extension/hair-piece-ponytails.html [L,R=301]
+RewriteCond %{REQUEST_URI} /hair-piece/top-closuress.html
+RewriteRule ^.*$ http://iamahair.com/hair-piece-extension/top-closures-hair-piece.html [L,R=301]
+RewriteCond %{REQUEST_URI} /hair-piece-extension/top-closuress.html
+RewriteRule ^.*$ http://iamahair.com/hair-piece-extension/top-closures-hair-piece.html [L,R=301]
+RewriteCond %{REQUEST_URI} /hair-piece-page-
+RewriteRule ^.*$ http://iamahair.com/hair-piece.html [L,R=301]
+RewriteCond %{REQUEST_URI} /hand-body-moisturizer-and-lotion.html
+RewriteRule ^.*$ http://iamahair.com/skin-care/hand-body-cream-gel-lotion.html [L,R=301]
+RewriteCond %{REQUEST_URI} /human-bump-wig.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-human-bump-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /indian-bare-natural.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-indian-bare-natural.html [L,R=301]
+RewriteCond %{REQUEST_URI} /indian-hair.html
+RewriteRule ^.*$ http://iamahair.com/feature-hair-fibers-indian-hair.html [L,R=301]
+RewriteCond %{REQUEST_URI} /weave-extensions/medium-length-weaves/indian-human-hair-weaves-medium-length.html
+RewriteRule ^.*$ http://iamahair.com/weave-extensions/medium-length-weaves/indian-hair-weaves-medium-length.html [L,R=301]
+RewriteCond %{REQUEST_URI} /indian-remi-wig.html
+RewriteRule ^.*$ http://iamahair.com/its-a-indian-hair-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /indian-super-natural.html
+RewriteRule ^.*$ http://iamahair.com/its-a-indian-hair-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /indiremi.html
+RewriteRule ^.*$ http://iamahair.com/bobbi-boss-indiremi-remi-weave-hair.html [L,R=301]
+RewriteCond %{REQUEST_URI} /instant-pony.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-instant-pony.html [L,R=301]
+RewriteCond %{REQUEST_URI} /instant-weave.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-instant-weave-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /its-a-half-wig-en.html
+RewriteRule ^.*$ http://iamahair.com/its-a-half-wig.html [L,R=301]
+RewriteCond %{REQUEST_URI} /kanubia.html
+RewriteRule ^.*$ http://iamahair.com/sensationnel-kanubia-weave.html [L,R=301]
+RewriteCond %{REQUEST_URI} /lace-front-wig.html
+RewriteRule ^.*$ http://iamahair.com/wigs/wig-lace-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /lace-front-wigs-en.html
+RewriteRule ^.*$ http://iamahair.com/wigs/wig-lace-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /lace-wig.html
+RewriteRule ^.*$ http://iamahair.com/wigs/wig-lace-wigs.html [L,R=301]
+RewriteCond %{REQUEST_URI} /lace-wig-page
+RewriteRule ^.*$ http://iamahair.com/wigs/wig-lace-wigs.html [L,R=301]
+
+
+Redirect /glue-and-remover.html http://iamahair.com/hair-care-products/wig-extension-care/glue-and-remover.html
+Redirect /kids-hair-care.html http://iamahair.com/hair-care-products/kids-hair-care.html
+Redirect /instant-semi-permanent-color.html http://iamahair.com/hair-care-products/hair-coloring/instant-semi-permanent-color.html
+Redirect /indian-hair-weaves-medium-length.html http://iamahair.com/weave-extensions/medium-length-weaves/indian-hair-weaves-medium-length.html
+Redirect /indian-human-hair-weaves-short-style.html http://iamahair.com/weave-extensions/under-10-inch-short-style-weaves/indian-human-hair-weaves-short-style.html
+Redirect /indian-hair-weaves-long-style.html http://iamahair.com/weave-extensions/over-16-inch-long-style-weaves/indian-hair-weaves-long-style.html
+Redirect /human-wig-human-hair-full-wigs.html http://iamahair.com/wigs/wig-full-wigs/human-wig-human-hair-full-wigs.html
+Redirect /human-halfwig-human-hair-half-wigs.html http://iamahair.com/wigs/wig-half-wigs/human-halfwig-human-hair-half-wigs.html
+Redirect /human-hair-weaves-short-style.html http://iamahair.com/weave-extensions/under-10-inch-short-style-weaves/human-hair-weaves-short-style.html
+Redirect /human-hair-weaves-long-style.html http://iamahair.com/weave-extensions/over-16-inch-long-style-weaves/human-hair-weaves-long-style.html
+Redirect /heat-protector.html http://iamahair.com/hair-care-products/hair-styling/heat-protector.html
+Redirect /hair-scalp-treatment-repair.html http://iamahair.com/hair-care-products/hair-scalp-treatment.html
+Redirect /hair-tonic.html http://iamahair.com/hair-care-products/mens-hair-care/hair-tonic.html
+Redirect /hair-piece-ponytails.html http://iamahair.com/hair-piece-extension/hair-piece-ponytails.html
+Redirect /hair-piece-hair-burns-apple-dome.html http://iamahair.com/hair-piece-extension/hair-piece-hair-burns-apple-dome.html
+Redirect /hair-piece-fusion-hair-extensions.html http://iamahair.com/hair-piece-extension/hair-piece-fusion-hair-extensions.html
+Redirect /clearance-sales.html http://iamahair.com/special-offers/clearance-sales.html
+Redirect /cleansing-shampoo.html http://iamahair.com/hair-care-products/shampoo/cleansing-shampoo.html
+Redirect /caps-nets.html http://iamahair.com/beauty-items/caps-nets.html
+Redirect /activator-booster-and-neutralizer.html http://iamahair.com/hair-care-products/permanent-relaxer-wave/activator-booster-and-neutralizer.html
+Redirect /after-shampoo-conditioner.html http://iamahair.com/hair-care-products/conditioner/after-shampoo-conditioner.html
+Redirect /clips-pins-clamps.html http://iamahair.com/beauty-items/clips-pins-clamps.html
+Redirect /combs-brushes-piks.html http://iamahair.com/beauty-items/combs-brushes-piks.html
+Redirect /curly-style-lace-wigs.html http://iamahair.com/wigs/wig-lace-wigs/curly-style-lace-wigs.html
+Redirect /curly-wig-curly-style-full-wigs.html http://iamahair.com/wigs/wig-full-wigs/curly-wig-curly-style-full-wigs.html
+Redirect /foot-care-instruments.html http://iamahair.com/eyelashes-nail-items-pedi-care/nail-and-pedi-care/foot-care-instruments.html
+Redirect /detangler.html  http://iamahair.com/hair-care-products/hair-scalp-treatment/detangler.html
+Redirect /developer-lightener-remover.html  http://iamahair.com/hair-care-products/hair-coloring/developer-lightener-remover.html
+Redirect /facial-cream-gel-lotion.html http://iamahair.com/skin-care/facial-cream-gel-lotion.html
+
+
+
+
+
+#######################################################
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteRule ^(.*\.(js|css))$ smartoptimizer/?$1
+
+	RewriteCond %{REQUEST_FILENAME} !\.(png|gif|ico|swf|jpe?g|js|css)$
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteRule . index.php?sef_rewrite=1 [L,QSA]
+
+
+
+<FilesMatch "\.(gif|jpg|jpeg|png|swf|css|js|html?|xml|txt|ico)$">
+	FileETag none
+</FilesMatch>
